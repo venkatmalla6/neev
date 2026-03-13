@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "337634879214",
+    "firebase_url": "https://neev-921c4-default-rtdb.firebaseio.com",
+    "project_id": "neev-921c4",
+    "storage_bucket": "neev-921c4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337634879214:android:8df46b79bd0322cc3475ff",
+        "android_client_info": {
+          "package_name": "com.example.neev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4HISjLhiHTdnmfQeu_Le1qudcgqAagL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
